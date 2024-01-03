@@ -1,8 +1,9 @@
-# paper classification(kisti ai/data contest)
-### Task
+# paper classification
+### Task, dataset
 - 과학기술표준분류의 중분류로 주제 분류를 정확히 하는 모델 개발
 - multi-class classification(total 365 classes)
-
+- dataset: 논문 연구분야 분류 데이터
+  
 `input` - 국내 논문 전문 텍스트
 <br>
 `output` - 과학기술표준 **'중분류'**
